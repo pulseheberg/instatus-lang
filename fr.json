@@ -10,7 +10,7 @@
   "statusPage": "État des services",
   "isDown": "Incident en cours",
   "isDisrupted": "Perturbations en cours",
-  "isNotice": "Maintenance en cours",
+  "isNotice": "Maintenance",
   "isOk": "Aucun incident",
   "operational": "Opérationnel",
   "underMaintenance": "Maintenance en cours",
