@@ -10,7 +10,7 @@
   "statusPage": "Status Page",
   "isDown": "Experiencing issues",
   "isDisrupted": "Experiencing disruptions",
-  "isNotice": "Maintenance in progress",
+  "isNotice": "Maintenance",
   "isOk": "All systems operational",
   "operational": "Operational",
   "underMaintenance": "Under maintenance",
